@@ -1,7 +1,7 @@
 weight = input('enter weight:')
 if (int(weight) > 250):
-    print("wow you are big as hell.")
+    print("wow nice")
 elif (int(weight) < 250):
-    print("OMG I hope you curvy.")
+    print("Nice.")
 else:
-    print('you just right for me!')
+    print('Yes strong!')
